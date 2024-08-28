@@ -1,6 +1,6 @@
 # Frontend Mentor - Chat app CSS illustration
 
-# Link To Live Design : https://wuselewu.github.io/Frontend-Mentor-Chat-App-Challange/
+-- Link To Live Design : https://wuselewu.github.io/Frontend-Mentor-Chat-App-Challange/
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-design.jpg)
 
