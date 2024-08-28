@@ -26,7 +26,6 @@ body {
   font-family: "Rubik", sans-serif;
   font-size: var(--font-size);
   background-color: #fafafa;
-  overflow-x: hidden;
 }
 
 h1,
@@ -40,6 +39,7 @@ i {
   position: relative;
   width: 100%;
   height: 100vh;
+  overflow-x: hidden;
 }
 .left-bg-gradient {
   position: absolute;
@@ -58,7 +58,7 @@ i {
 }
 
 .right-bg-gradient {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   z-index: -2;
   right: -150px;
